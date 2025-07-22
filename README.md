@@ -2,6 +2,10 @@
 
 Doomenstein Gold
 
+<img width="587" height="693" alt="CoverLetterPlaceHolder" src="https://github.com/user-attachments/assets/2c865937-eddc-492e-93d1-2a976c80b03d" />
+<img width="1639" height="839" alt="DoomsteinGold_pic" src="https://github.com/user-attachments/assets/eb7ae435-9627-4743-91fe-b0438e7e0809" />
+
+
 Feature:
 1. Implemented 3 new Weapons including Axe, Punch,  and Multi-bullet gun，
 2. Implemented 3 new Enemies including a fly enemy, a new demon, and a worm enemy that generates on floor after new demon dead. 
